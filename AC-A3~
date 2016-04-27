@@ -1,0 +1,23 @@
+USUARIO: A3estudiante11
+CONTRASEÑA: ssdsbmahch
+
+sftp A3estu......
+put archivo_a_subir
+gcc *.c -fopenmp -o ejecutable
+echo './HelloOmp' | gsub -q ac
+qstat
+
+get ...
+
+filezilla ->opcional.
+
+scp archivo destino -> función de copiar
+scp Makefile A3estudiante11@atcgrid.ugr.es:~
+scp A3estudiante11@atcgrid.ugr.es:~/hola .
+
+#PBS -> TORQUE bat system
+chmod a+x *.sh
+subir script a atcgrid. despues qsub ./*.sh
+qstat
+archivo: nombre.e/o*
+
