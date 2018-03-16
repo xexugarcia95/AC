@@ -1,0 +1,24 @@
+Arquitectura:                        x86_64
+modo(s) de operación de las CPUs:    32-bit, 64-bit
+Orden de bytes:                      Little Endian
+CPU(s):                              2
+On-line CPU(s) list:                 0,1
+Hilo(s) de procesamiento por núcleo: 1
+Núcleo(s) por «socket»:              2
+Socket(s):                           1
+Modo(s) NUMA:                        1
+ID de fabricante:                    AuthenticAMD
+Familia de CPU:                      20
+Modelo:                              2
+Model name:                          AMD E1-1200 APU with Radeon(tm) HD Graphics
+Revisión:                            0
+CPU MHz:                             777.000
+CPU max MHz:                         1400,0000
+CPU min MHz:                         777,0000
+BogoMIPS:                            2795.03
+Virtualización:                      AMD-V
+Caché L1d:                           32K
+Caché L1i:                           32K
+Caché L2:                            512K
+NUMA node0 CPU(s):                   0,1
+Flags:                               fpu vme de pse tsc msr pae mce cx8 apic sep mtrr pge mca cmov pat pse36 clflush mmx fxsr sse sse2 ht syscall nx mmxext fxsr_opt pdpe1gb rdtscp lm constant_tsc rep_good nopl nonstop_tsc cpuid extd_apicid aperfmperf pni monitor ssse3 cx16 popcnt lahf_lm cmp_legacy svm extapic cr8_legacy abm sse4a misalignsse 3dnowprefetch ibs skinit wdt hw_pstate retpoline retpoline_amd rsb_ctxsw vmmcall arat npt lbrv svm_lock nrip_save pausefilter
